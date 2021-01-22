@@ -43,7 +43,7 @@
     "@scatterjs/core": "^2.7.36",
     "@scatterjs/eosjs2": "^1.5.18",
     "amcharts3": "github:amcharts/amcharts3",
-    "angular": "^1.5.8",
+    "angular": "^1.8.0",
     "angular-clipboard": "^1.6.1",
     "angular-cookies": "^1.6.1",
     "angular-datepicker": "^1.0.5",
